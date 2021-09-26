@@ -110,7 +110,7 @@ while game_on:
             war_game = False
 
         else:
-            print('Suits are the same')
+            print('WAR!!!')
             if len(player1.cards) > 3 and len(player2.cards) > 3:
                 p_1 = []
                 p_2 = []
